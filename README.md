@@ -72,6 +72,4 @@ Finally, we added a **pseudo EOF character**, and we chose it out of the ASCII t
 
 *3. Weiss, Mark Allen. “Data structures and algorithm analysis in Java." Addison-Wesley Long-man Publishing Co., Inc., 1998.*
 
----
 
-<h3 align='center'> Made with :heart:</h3>
